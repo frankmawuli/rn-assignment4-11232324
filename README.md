@@ -6,7 +6,7 @@ This is the repository for Assignment 4 fot the Mobile Application Development
 ## Components
 
 ### Signup 
-- A screen that allows the user to enter their name and email and login
+- A screen that allows the users to enter their name and email and login
 
 ### HumeScreen 
 - A screen that displays the user's name and email.
@@ -30,11 +30,14 @@ This is the repository for Assignment 4 fot the Mobile Application Development
 ![Screenshots](./components/icons/Screenshot2.jpeg)
 ![Screenshots](./components/icons/Screenshot3.jpeg)
 ![Screenshots](./components/icons/Screenshot4.jpeg)
+![Screenshots](./components/icons/Screenshot5.jpeg)
+
+
 
 
 ## How to Run
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Banisco10/rn-assignment4-11330842.git
+   git clone https://github.com/frankmawuli/rn-assignment4-11232324.git
    cd assignment4
